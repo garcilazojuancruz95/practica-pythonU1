@@ -6,7 +6,8 @@ Restricción: Utilizar el método append
 """
 
 # COMPLETAR - INICIO
-lista_01 = 
+lista_01 = ["V", 2077, "Edgerunner"]
+lista_01.append("Johnny Silverhand")
 # COMPLETAR - FIN
 
 assert len(lista_01) == 4
